@@ -82,8 +82,9 @@ Seja criativo!
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: [Repositório escolhido (thefuck)](https://github.com/nvbn/thefuck)
-2. Gráfico selecionado: ![Gráfico LOC](./canvas.png)
-3. Explicação: 
+2. Gráfico selecionado:
+![Gráfico LOC](./canvas.png)
+4. Explicação: 
 
 # Detalhamento do repositório
 
