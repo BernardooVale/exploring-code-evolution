@@ -86,7 +86,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 ![Gráfico LOC](./canvas.png)
 
-4. Explicação: 
+3. Explicação: 
 
 # Detalhamento do repositório
 
