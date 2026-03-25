@@ -90,7 +90,7 @@ Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 # Detalhamento do repositório
 
-The Fuck é um repositório pensado especificamente para facilitar o uso de consoles (Shell), dado a sua grande granularidade e variação de comandos específicos. Basicamente sempre que escrever um comando errado, basta no próximo comando escrever **fuck** ou suas variações que ele lerá o seu último comando, tentará encontrar alguma combinação com regras pré-definidas e, caso tenha sucesso, recomendará o comando corrigido.
+The Fuck é um repositório pensado especificamente para facilitar o uso de consoles (Shell), dado a sua grande granularidade e variação de comandos específicos. Basicamente sempre que escrever um comando errado, basta no próximo comando escrever `fuck` ou suas variações que ele lerá o seu último comando, tentará encontrar alguma combinação com regras pré-definidas e, caso tenha sucesso, recomendará o comando corrigido.
 
 # Porque isso é relevante?
 
