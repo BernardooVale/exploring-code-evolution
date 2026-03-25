@@ -81,9 +81,16 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: [Repositório escolhido (thefuck)](https://github.com/nvbn/thefuck)
+2. Gráfico selecionado: ![Gráfico LOC](./canvas.png)
+3. Explicação: 
 
+# Detalhamento do repositório
 
+The Fuck é um repositório pensado especificamente para facilitar o uso de consoles (Shell), dado a sua grande granularidade e variação de comandos específicos. Basicamente sempre que escrever um comando errado, basta no próximo comando escrever **fuck** ou suas variações que ele lerá o seu último comando, tentará encontrar alguma combinação com regras pré-definidas e, caso tenha sucesso, recomendará o comando corrigido.
 
+# Porque isso é relevante?
+
+O gráfico de Lines of Code (LOC) apresenta uma tendência logarítmica, o que não é uma exclusividade dele, praticamente todos os outros gráficos possuem o mesmo comportamento. Isso é altamente relevante porque indica a maturidade do projeto, diferentemente de sistemas corporativos que crescem indefinidamente, o The Fuck possui um escopo bem definido: comandos e regras do Shell(que são praticamente imutáveis).
+
+Uma vez que as principais regras para as ferramentas mais populares (como Git, ls, cd) foram implementadas, o volume de código novo diminui, focando-se mais em manutenção e refatoração do que em expansão desenfreada. Essa curva achatada é um excelente exemplo de um software que atingiu seu estado de estabilidade, onde o esforço de desenvolvimento se volta para a confiabilidade em vez de apenas volume de código, ou até mesmo o fim do desenvolvimento daquele projeto (casos mais raros).
